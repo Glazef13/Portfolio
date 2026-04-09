@@ -140,7 +140,6 @@ The application will be available at `http://localhost:5173`
 - **Email:** abhishekkumarofficial15@gmail.com
 - **LinkedIn:** [Abhishek Kumar](https://www.linkedin.com/in/abhishek-kumar-8a4883222)
 - **Instagram:** [@glazef_i8](https://www.instagram.com/glazef_i8/)
-- **WhatsApp:** [+91 9103932699](https://wa.me/919103932699)
 
 ---
 
@@ -182,12 +181,6 @@ This portfolio is deployed using **GitHub Pages** for free hosting:
 4. Select "Deploy from a branch" → main → / (root)
 
 **Live URL:** https://glazef13.github.io/Portfolio/
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
