@@ -55,8 +55,8 @@ A modern, animated 3D developer portfolio built with React, Three.js, TailwindCS
 │   └── vite.svg
 ├── src/
 │   ├── components/         # Reusable components
-│   ├── constants/          # Reusable datas
 │   ├── sections/           # Portfolio sections (Hero, About, etc.)
+│   ├── constants/          # Reusable datas
 │   ├── App.jsx             # Main app file
 │   ├── index.css           # Tailwind css
 │   └── main.jsx            # Entry point
@@ -69,7 +69,7 @@ A modern, animated 3D developer portfolio built with React, Three.js, TailwindCS
 ## 🚀 Getting Started
 1. Clone the Repository
 ```bash
-git clone https://github.com/Ali-Sanati/Portfolio.git
+git clone https://github.com/Glazef13/Portfolio.git
 cd Portfolio
 ```
 2. Install Dependencies
@@ -90,9 +90,8 @@ Assets used in the project can be found [here](https://github.com/user-attachmen
 ---
 
 ## 📬 Contact Me
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ali.sanatidev/reels/) 
-[![Static Badge](https://img.shields.io/badge/Youtube-%23FF0033?style=flat&logo=youtube)](https://www.youtube.com/channel/UCZhtUWTtk3bGJiMPN9T4HWA)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-sanati/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/glazef_i8/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-8a4883222/)
 
 ---
 
